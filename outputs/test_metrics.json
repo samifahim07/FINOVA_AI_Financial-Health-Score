@@ -1,0 +1,11 @@
+{
+  "selected_model": "LightGBM",
+  "test_mae": 6.48842697668136,
+  "test_rmse": 8.61572241927835,
+  "test_r2": 0.6260209640855212,
+  "test_weighted_mae": 6.387407799268561,
+  "train_rows": 4472,
+  "validation_rows": 958,
+  "test_rows": 959,
+  "feature_count": 30
+}
